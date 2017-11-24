@@ -1,4 +1,4 @@
-# AR.js - Efficient Augmented Reality for the Web
+# AR.js - 基于JS的增强现实
 
 I am focusing hard on making AR for the web a reality.
 This repository is where I publish the code.
